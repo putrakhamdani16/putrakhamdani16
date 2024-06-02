@@ -22,3 +22,9 @@
 
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=putrakhamdani16&show_icons=true&theme=dark&locale=en&layout=compact" alt="putrakhamdani16" />
+</div>
