@@ -22,12 +22,3 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=putrakhamdani16&theme=dark" alt="putrakhamdani16" />
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=putrakhamdani16&show_icons=true&theme=dark&locale=en" alt="putrakhamdani16" />
- <br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=putrakhamdani16&show_icons=true&theme=dark&locale=en&layout=compact" alt="putrakhamdani16" />
-</div>
