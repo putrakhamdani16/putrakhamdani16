@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putrakhamdani16&label=Profile%20views&color=0e75b6&style=flat" alt="putrakhamdani16" /> </p>
 
-- 🌱 I’m currently learning **python and laravel**
-
 - 📫 How to reach me **putrakhamdani06@gmail.com**
 
 - ⚡ Fun fact **I'm an avid gamer and a cat enthusiast, but I have a passionate dislike for mushroom soup!**
